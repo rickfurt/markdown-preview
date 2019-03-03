@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Previewer from './Previewer'
+
 export default class Text_editor extends React.Component{
     constructor(props){
       super(props)
@@ -31,4 +32,7 @@ export default class Text_editor extends React.Component{
       )
     }
   }
+
+
+   
   
