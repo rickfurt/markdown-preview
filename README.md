@@ -5,4 +5,4 @@
 The main goal for the project was to use a front end library in this case ReactJs to create an Input type Plain Text
 and for the Output should be converted to Markup.
 
-For this project I've Used the **MarkedJs Api.
+For this project I've Used the **MarkedJs Api**.
